@@ -3,3 +3,5 @@ Here are some of our final programs/scripts in Python 3 that we wrote to help cl
 
 
 Instructions for 3_12_BatchHighlighter: https://youtu.be/JL2C9MOOB7o
+
+For executable files, feel free to email me at evan.yang@emory.edu
